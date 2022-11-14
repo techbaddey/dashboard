@@ -26,7 +26,7 @@ const Sidebar = () => {
         <>
         <div className="flex justify-between items-center">
           <Link to='/' onClick={handleCloseSideBar} className='items-center gap-3 ml-3 mt-4 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900'>
-            <FaDatabase /> <span>AltSchool Data</span>
+            <FaDatabase /> <span>XMS</span>
           </Link>
           <TooltipComponent content='Close' position='BottomCenter'>
             <button type='button' onClick={() => setActiveMenu((prevActiveMenu) => !prevActiveMenu)} className='text-xl rounded-full p-3 hover:bg-light-gray mt-4 block md:hidden'>

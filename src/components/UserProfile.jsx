@@ -27,7 +27,7 @@ const UserProfile = () => {
           alt="user-profile"
         />
         <div>
-          <p className="font-semibold text-xl dark:text-gray-200"> Juma Codes </p>
+          <p className="font-semibold text-xl dark:text-gray-200"> Oyinkansola Shoroye </p>
           <p className="text-gray-500 text-sm dark:text-gray-400">  FrontEnd Engineer   </p>
           <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> altschoolafrica.com </p>
         </div>
