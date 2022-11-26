@@ -471,7 +471,7 @@ export const employeesGrid = [
 
 export const links = [
   {
-    title: 'Dashboard',
+    title: 'Main',
     links: [
       {
         name: 'ecommerce',
@@ -505,7 +505,7 @@ export const links = [
         icon: <AiOutlineCalendar />,
       },
       {
-        name: 'kanban',
+        name: 'tasks',
         icon: <BsKanban />,
       },
       {
