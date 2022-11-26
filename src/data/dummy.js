@@ -81,8 +81,8 @@ const gridEmployeeCountry = (props) => (
 export const EditorData = () => (
   <div>
     <h3>
-     I am Oyinkansola Shoroye, a software developer in Lagos, Nigeria. I specialize in the core frontend technologies, and I focus on new developments in my field, I am passionate about all aspects of technology. Friends fondly call me Teqbaddie.
-I effortlessly work at the intersection of designing world class digital products and developing them to meet user's need and also cater to business goals. I am able to execute tasks with proficiency and accuracy both remotely and on-site.
+     I am Oyinkansola Shoroye, a software developer in Lagos, Nigeria. I specialize in the core frontend technologies, and I focus on new developments in my field, I am passionate about all aspects of technology. Friends fondly call me Teqbaddie. 
+I effortlessly work at the intersection of designing world class digital products and developing them to meet user's need and also cater to business goals. I am able to execute tasks with proficiency and accuracy both remotely and on-site. 
 I enjoy sharing my knowledge about tech through speaking and writing. I also enjoy volunteering and being a part of the solution that solves people's problem. I am always open to contribute to tech projects, connect and work with other tech talents across the world.
     </h3>
   </div>
