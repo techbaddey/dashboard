@@ -29,8 +29,8 @@ const UserProfile = () => {
         <div>
           <p className="font-semibold text-xl dark:text-gray-200"> Oyinkansola Shoroye </p>
           
-          <p className="font-semibold text-xl dark:text-gray-200"> @teqbaddie </p>
-          
+          <p className="text-gray-500 text-sm dark:text-gray-400"> @teqbaddie  </p>
+        
           <p className="text-gray-500 text-sm dark:text-gray-400">  Front-End Engineer   </p>
         
         </div>
