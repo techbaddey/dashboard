@@ -1,70 +1,125 @@
-# Getting Started with Create React App
+# React Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a name="readme-top"></a>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+</div>
 
-### `npm start`
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
+  <h3>Modern React Admin Dashboard</h3>
+  <p>
+    A comprehensive admin dashboard built with React featuring multiple apps, charts, and data management modules.
+    <br />
+    <a href="https://dashboard-techbaddey.vercel.app/"><strong>View Live Demo »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/techbaddey/dashboard/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/techbaddey/dashboard/issues">Request Feature</a>
+  </p>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<!-- Table of Contents -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#key-features">Key Features</a></li>
+        <li><a href="#technologies-used">Technologies Used</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#modules">Modules</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## About The Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This React Admin Dashboard is a powerful and responsive web application designed for business administration, data visualization, and task management. It provides a comprehensive suite of tools for managing eCommerce operations, employees, customers, and more.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Key Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Modern UI/UX Design**: Clean, intuitive interface with dark/light mode
+- **Comprehensive Data Management**: Manage orders, employees, and customers
+- **Integrated Applications**: Calendar, task manager, rich text editor, and more
+- **Advanced Data Visualization**: Multiple chart types for analytics
+- **Fully Responsive**: Works on all device sizes
 
-### `npm run eject`
+### Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- ![React][react]
+- ![JavaScript][javascript]
+- ![CSS3][css3]
+- ![HTML5][html5]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Modules
 
-## Learn More
+### Main
+- **eCommerce Dashboard**: Overview of sales, revenue, and key metrics
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Pages
+- **Orders**: Manage and track customer orders
+- **Employees**: Employee directory and management
+- **Customers**: Customer relationship management
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Apps
+- **Calendar**: Schedule and event management
+- **Tasks**: Todo list and task tracking
+- **Editor**: Rich text editor for content creation
+- **Color Picker**: Design tool for color selection
 
-### Code Splitting
+### Charts
+- **Line Charts**: Trend visualization
+- **Area Charts**: Quantitative data representation
+- **Bar Charts**: Comparative analysis
+- **Pie Charts**: Proportional data display
+- **Financial Charts**: Stock and market data
+- **Color Mapping**: Data visualization with color scales
+- **Pyramid Charts**: Hierarchical data representation
+- **Stacked Charts**: Multi-series data comparison
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Getting Started
 
-### Making a Progressive Web App
+To get a local copy up and running, follow these simple steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Prerequisites
 
-### Advanced Configuration
+- Node.js (v14 or later)
+- npm or yarn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Installation
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository
+   ```sh
+   git clone https://github.com/techbaddey/dashboard.git
