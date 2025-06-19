@@ -2,14 +2,6 @@
 
 <a name="readme-top"></a>
 
-<div align="center">
-
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-</div>
-
 <br />
 
 <div align="center">
@@ -70,10 +62,10 @@ This React Admin Dashboard is a powerful and responsive web application designed
 
 ### Technologies Used
 
-- ![React][react]
-- ![JavaScript][javascript]
-- ![CSS3][css3]
-- ![HTML5][html5]
+- React
+- JavaScript
+- CSS3
+- HTML5
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
